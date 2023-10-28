@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Cambiando de color el cuerpo de la página (body) */
+body {
+    background-color: antiquewhite;
+}
